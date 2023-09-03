@@ -53,3 +53,20 @@ Incecast uses slash commands to interact with the bot. You can find the list of 
 | `/change` | Change the radio stream to a custom URL |
 | `/reconnect` | Reconnect the bot to your voice channel |
 | `/ping` | Advanced debugging and pong! |
+
+## Screenshots
+
+| ![Displaying bot status](https://github.com/dragonismcode/incecast/assets/76412158/8b304f7d-1e70-4240-a546-f3bbe4f71a2c) |
+|:--:| 
+| *Showing what bot stauts looks like* |
+
+| ![Command usage](https://github.com/dragonismcode/incecast/assets/76412158/1a2f58d0-c97c-4c01-8f81-31f05a9a126f) |
+|:--:| 
+| *Working searching and playing radio stations* |
+
+## Thanks to...
+### [radio.garden](https://radio.garden)
+Having such an amazing API and the root inspiration for this bot
+
+### The whole RWB team
+I'd like to thank the [Running With Bricks](https://github.com/Running-With-Bricks) group for supporting the creation of this bot and showing interest!
