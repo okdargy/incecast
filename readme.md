@@ -56,11 +56,11 @@ Incecast uses slash commands to interact with the bot. You can find the list of 
 
 ## Screenshots
 
-| ![Displaying bot status](https://github.com/dragonismcode/incecast/assets/76412158/8b304f7d-1e70-4240-a546-f3bbe4f71a2c) |
+| ![Displaying bot status](https://i.imgur.com/jeaedk2.png) |
 |:--:| 
 | *Showing what bot stauts looks like* |
 
-| ![Command usage](https://github.com/dragonismcode/incecast/assets/76412158/1a2f58d0-c97c-4c01-8f81-31f05a9a126f) |
+| ![Command usage](https://i.imgur.com/jAsyFh7.png) |
 |:--:| 
 | *Working searching and playing radio stations* |
 
