@@ -1,0 +1,7 @@
+node_modules
+icecat*.zip
+package-lock.json
+pnpm-lock.yaml
+station_cache.json
+notes.md
+config.json
