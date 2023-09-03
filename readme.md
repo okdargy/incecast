@@ -37,7 +37,13 @@ This step is required for @discordjs/voice to work. You can install ffmpeg from 
 }
 ```
 
-5. Start the bot
+5. Deploy the commands
+> This will deploy to only the server in the `guildId` variable
+```bash
+node deploy.js
+```
+
+6. Start the bot
 ```bash
 node index.js
 ```
