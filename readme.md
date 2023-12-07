@@ -12,7 +12,7 @@
 ## Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/dragonismcode/incecast
+git clone https://github.com/okdargy/incecast
 ```
 
 2. Install dependencies
